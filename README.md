@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vinay Sharma
 
-### Salesforce Developer | MERN Stack Developer | Data Analyst
+### Salesforce Developer | Data Analyst | MERN Stack Developer
 
 Welcome to my GitHub Profile!
 
@@ -9,9 +9,9 @@ Welcome to my GitHub Profile!
 ## 👨‍💻 About Me
 
 - 🌱 Learning Salesforce Development
-- 💻 MERN Stack Developer
-- 📊 Data Analytics Enthusiast
 - ☁ Salesforce CRM Developer
+- 📊 Data Analytics Enthusiast
+- 💻 MERN Stack Developer
 - 🚀 Passionate about solving real-world problems
 
 ---
@@ -21,22 +21,9 @@ Welcome to my GitHub Profile!
 ### Programming
 
 - Java
-- JavaScript
 - Python
 - Apex
-
-### Web
-
-- HTML
-- CSS
-- Node.js
-- Express.js
-
-### Database
-
-- MongoDB
-- SQL
-- SOQL
+- JavaScript
 
 ### Salesforce
 
@@ -54,6 +41,19 @@ Welcome to my GitHub Profile!
 - Excel
 - SQL
 
+### Web
+
+- HTML
+- CSS
+- Node.js
+- Express.js
+
+### Database
+
+- MongoDB
+- SQL
+- SOQL
+
 ---
 
 ## 🚀 Featured Projects
@@ -69,13 +69,13 @@ Salesforce project using
 - Service Layer
 - Trigger Handler
 
-### 💼 Portfolio Website
-
-Live Portfolio showcasing my skills and projects.
-
 ### 📊 HR Analytics Dashboard
 
 Power BI dashboard for employee analytics.
+
+### 💼 Portfolio Website
+
+Live Portfolio showcasing my skills and projects.
 
 ---
 
